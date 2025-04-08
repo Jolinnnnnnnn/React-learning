@@ -13,6 +13,7 @@
 每一个组件都有一个与之对应的js对象即fiber节点，不同fiber节点无法通信状态
 共享状态：状态提升（公共父级，通过props将state传递给子组件，影响范围较广）
 react组件外部状态管理：redux，contextAPI
+second
 */
 
 import React, { useState } from 'react';
